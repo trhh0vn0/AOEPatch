@@ -1,0 +1,10 @@
+C:\Users\haiha\source\repos\AOEPatch\bin\Debug\AOEPatch.exe.config
+C:\Users\haiha\source\repos\AOEPatch\bin\Debug\AOEPatch.exe
+C:\Users\haiha\source\repos\AOEPatch\bin\Debug\AOEPatch.pdb
+C:\Users\haiha\source\repos\AOEPatch\obj\Debug\AOEPatch.csproj.AssemblyReference.cache
+C:\Users\haiha\source\repos\AOEPatch\obj\Debug\AOEPatch.Form1.resources
+C:\Users\haiha\source\repos\AOEPatch\obj\Debug\AOEPatch.Properties.Resources.resources
+C:\Users\haiha\source\repos\AOEPatch\obj\Debug\AOEPatch.csproj.GenerateResource.cache
+C:\Users\haiha\source\repos\AOEPatch\obj\Debug\AOEPatch.csproj.CoreCompileInputs.cache
+C:\Users\haiha\source\repos\AOEPatch\obj\Debug\AOEPatch.exe
+C:\Users\haiha\source\repos\AOEPatch\obj\Debug\AOEPatch.pdb
