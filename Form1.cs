@@ -46,7 +46,7 @@ namespace AOEPatch
             }
             else
             {
-                MessageBox.Show("Không phát hiện file game: 'EMPIRES.EXE' tại, vui lòng thử lại");
+                MessageBox.Show("Không phát hiện file game: 'EMPIRES.EXE' tại, vui lòng thử lại!");
             }
             if (File.Exists(aoepath + "\\EMPIRESX.EXE"))
             {
@@ -54,7 +54,7 @@ namespace AOEPatch
             }
             else
             {
-                MessageBox.Show("Không phát hiện file game: 'EMPIRESX.EXE', vui lòng thử lại");
+                MessageBox.Show("Không phát hiện file game: 'EMPIRESX.EXE', vui lòng thử lại!");
             }
             if (ttf == 2)
             {
